@@ -1,0 +1,176 @@
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+c:\users\13-7785\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+E:\visual basic\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+E:\visual basic\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+E:\visual basic\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+E:\visual basic\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+E:\visual basic\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+E:\visual basic\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+E:\visual basic\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+E:\visual basic\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+E:\visual basic\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+E:\visual basic\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+E:\visual basic\assignment\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+E:\visual basic\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+E:\visual basic\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+E:\visual basic\assignment\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\13-7785\Documents\Visual Studio 2012\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\assignment2\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\13-7785\Desktop\assignment3\WindowsApplication7\obj\Debug\WindowsApplication7.Form2.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.1\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\13-7785\Desktop\assignment 3.9\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\13-7785\Documents\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\13-7785\Desktop\assignment 3.9 fixed\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 3.98\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\hassan\Desktop\vb assignment blackjack\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\hassan\Desktop\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+E:\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+E:\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+E:\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+E:\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.vbprojResolveAssemblyReference.cache
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
