@@ -35,23 +35,27 @@ Partial Class frmplayerdetails
         Me.btnread = New System.Windows.Forms.Button()
         Me.Btntutorial = New System.Windows.Forms.Button()
         Me.Btnentergame = New System.Windows.Forms.Button()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'filesListBox
         '
         Me.filesListBox.FormattingEnabled = True
-        Me.filesListBox.Location = New System.Drawing.Point(22, 48)
+        Me.filesListBox.Location = New System.Drawing.Point(16, 37)
         Me.filesListBox.Name = "filesListBox"
         Me.filesListBox.Size = New System.Drawing.Size(152, 82)
         Me.filesListBox.TabIndex = 7
         '
         'txtplayerdetails
         '
-        Me.txtplayerdetails.Location = New System.Drawing.Point(314, 48)
+        Me.txtplayerdetails.Location = New System.Drawing.Point(203, 37)
         Me.txtplayerdetails.Multiline = True
         Me.txtplayerdetails.Name = "txtplayerdetails"
         Me.txtplayerdetails.Size = New System.Drawing.Size(116, 82)
         Me.txtplayerdetails.TabIndex = 8
+        Me.txtplayerdetails.Text = "Your Details"
+        Me.txtplayerdetails.Visible = False
         '
         'txtplayername
         '
@@ -102,7 +106,7 @@ Partial Class frmplayerdetails
         '
         'browseButton
         '
-        Me.browseButton.Location = New System.Drawing.Point(22, 187)
+        Me.browseButton.Location = New System.Drawing.Point(16, 241)
         Me.browseButton.Name = "browseButton"
         Me.browseButton.Size = New System.Drawing.Size(152, 55)
         Me.browseButton.TabIndex = 19
@@ -123,7 +127,7 @@ Partial Class frmplayerdetails
         '
         'btnread
         '
-        Me.btnread.Location = New System.Drawing.Point(314, 187)
+        Me.btnread.Location = New System.Drawing.Point(16, 136)
         Me.btnread.Name = "btnread"
         Me.btnread.Size = New System.Drawing.Size(116, 55)
         Me.btnread.TabIndex = 21
@@ -148,6 +152,30 @@ Partial Class frmplayerdetails
         Me.Btnentergame.Text = "continue to game"
         Me.Btnentergame.UseVisualStyleBackColor = True
         '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.BackColor = System.Drawing.Color.Transparent
+        Me.Label4.Font = New System.Drawing.Font("Arial", 13.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.ForeColor = System.Drawing.Color.Red
+        Me.Label4.Location = New System.Drawing.Point(18, 203)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(408, 22)
+        Me.Label4.TabIndex = 24
+        Me.Label4.Text = "If your save is not found try searching for it"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.BackColor = System.Drawing.Color.Transparent
+        Me.Label5.Font = New System.Drawing.Font("Arial", 13.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.ForeColor = System.Drawing.Color.Red
+        Me.Label5.Location = New System.Drawing.Point(12, 9)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(301, 22)
+        Me.Label5.TabIndex = 25
+        Me.Label5.Text = "Load previous save from below"
+        '
         'frmplayerdetails
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -155,6 +183,8 @@ Partial Class frmplayerdetails
         Me.BackgroundImage = Global.WindowsApplication7.My.Resources.Resources.rog5_550___Copy
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(1165, 547)
+        Me.Controls.Add(Me.Label5)
+        Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Btnentergame)
         Me.Controls.Add(Me.Btntutorial)
         Me.Controls.Add(Me.btnread)
@@ -186,4 +216,6 @@ Partial Class frmplayerdetails
     Friend WithEvents btnread As System.Windows.Forms.Button
     Friend WithEvents Btntutorial As System.Windows.Forms.Button
     Friend WithEvents Btnentergame As System.Windows.Forms.Button
+    Friend WithEvents Label4 As Label
+    Friend WithEvents Label5 As Label
 End Class

@@ -27,6 +27,7 @@
         If count = 1 Then
             lblResultlose.Visible = False
             lblresultwin.Visible = False
+            btncard.Text = "Hit Me"
             If intScore > 0 Then
                 intScore = intScore - 50
             Else
@@ -81,17 +82,23 @@
                 My.Computer.Audio.Play(My.Resources.SuperMariolose, AudioPlayMode.Background)
                 lblResultlose.Visible = True
                 lblResultlose.Text = ("Dealer Wins") & vbNewLine & ("Dealers score was ") & vbNewLine & dealer.ToString
+                btncard.Text = "continue"
+                lblResultlose.BackColor = Color.DarkGreen
                 Call resetgame()
             ElseIf intcardTotal > 21 Then
                 My.Computer.Audio.Play(My.Resources.SuperMariolose, AudioPlayMode.Background)
                 lblResultlose.Visible = True
                 lblResultlose.Text = ("Bust")
+                btncard.Text = "continue"
+                lblResultlose.BackColor = Color.DarkGreen
                 Call resetgame()
             Else
                 My.Computer.Audio.Play(My.Resources.zelda, AudioPlayMode.Background)
                 lblresultwin.Visible = True
                 lblresultwin.Text = ("Congratulations You Win") & vbNewLine & ("Your Score= ") & intcardTotal.ToString & vbNewLine & ("Dealers Score= ") & dealer.ToString
                 intScore = intScore + 100
+                btncard.Text = "continue"
+                lblresultwin.BackColor = Color.DarkGreen
                 Call resetgame()
             End If
         End If
@@ -102,12 +109,16 @@
             My.Computer.Audio.Play(My.Resources.SuperMariolose, AudioPlayMode.Background)
             lblResultlose.Visible = True
             lblResultlose.Text = ("Bust")
+            btncard.Text = "continue"
+            lblResultlose.BackColor = Color.DarkGreen
             Call resetgame()
         ElseIf intcardTotal = 21 Then
             My.Computer.Audio.Play(My.Resources.zelda, AudioPlayMode.Background)
             lblresultwin.Visible = True
             lblresultwin.Text = ("Congratulations You Got Blackjack You Win")
             intScore = intScore + 100
+            btncard.Text = "continue"
+            lblresultwin.BackColor = Color.DarkGreen
             Call resetgame()
         End If
 
@@ -120,6 +131,7 @@
     End Sub
 
     Private Sub firstcard()
+        'ALOT of redundant code, What was I thinking back then
         Dim intCard As Integer
         'first card values
         intCard = rndCard.Next(1, 53)
@@ -267,6 +279,7 @@
     Private Sub btnreset_Click(sender As Object, e As EventArgs) Handles btnreset.Click
         btncard.Enabled = True
         intScore = 1000
+        lblScore.Text = intScore.ToString
         Call resetgame()
     End Sub
     Private Sub resetgame()
@@ -305,22 +318,30 @@
             lblresultwin.Visible = True
             lblresultwin.Text = ("Congratulations You Win") & vbNewLine & ("Your Score= ") & intcardTotal.ToString & vbNewLine & ("Dealers Score= ") & dealer.ToString
             intScore = intScore + 100
+            btncard.Text = "continue"
+            lblresultwin.BackColor = Color.DarkGreen
             Call resetgame()
         ElseIf dealer = 0 Then
             My.Computer.Audio.Play(My.Resources.zelda, AudioPlayMode.Background)
             lblresultwin.Visible = True
             lblresultwin.Text = ("Congratulations You Win") & vbNewLine & ("Your Score= ") & intcardTotal.ToString & vbNewLine & ("Dealers is bust")
             intScore = intScore + 100
+            btncard.Text = "continue"
+            lblresultwin.BackColor = Color.DarkGreen
             Call resetgame()
         ElseIf intcardTotal = dealer Then
             My.Computer.Audio.Play(My.Resources.SuperMariolose, AudioPlayMode.Background)
             lblResultlose.Visible = True
             lblResultlose.Text = ("You tied with the Dealer") & vbNewLine & ("both Scores were= ") & intcardTotal.ToString & vbNewLine & ("dealer wins all ties below 21")
+            btncard.Text = "continue"
+            lblResultlose.BackColor = Color.DarkGreen
             Call resetgame()
         Else
             My.Computer.Audio.Play(My.Resources.SuperMariolose, AudioPlayMode.Background)
             lblResultlose.Visible = True
             lblResultlose.Text = ("Dealer Wins") & vbNewLine & ("Dealers score was ") & vbNewLine & dealer.ToString
+            btncard.Text = "continue"
+            lblResultlose.BackColor = Color.DarkGreen
             Call resetgame()
         End If
         'updates score
@@ -387,5 +408,7 @@
         lblsaveinfo.Text = frmplayerdetails.txtplayerdetails.Text
     End Sub
 
+    Private Sub frmIngameScreen_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
+    End Sub
 End Class

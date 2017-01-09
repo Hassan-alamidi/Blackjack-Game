@@ -1,8 +1,9 @@
 ﻿Module Module1
     Public autosave As Integer = 0
-    'change folder destination here for different computer
-    Public strfilename As String = "G:\savetestfold\playerprofile1.txt"
-    Public strfilename2 As String = "G:\savetestfold\playerprofile2.txt"
+    'folder destination
+    Public fileDestination As String = My.Computer.FileSystem.SpecialDirectories.MyDocuments + "\PokerSave"
+    Public strfilename As String = fileDestination + "\playerprofile1.txt"
+    Public strfilename2 As String = fileDestination + "\playerprofile2.txt"
     Public strsave As String
     Public strsave2 As String
     'Public strsave3 As String

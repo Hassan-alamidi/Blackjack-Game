@@ -293,7 +293,7 @@ Partial Class frmIngameScreen
         'lblresultwin
         '
         Me.lblresultwin.BackColor = System.Drawing.Color.Transparent
-        Me.lblresultwin.Font = New System.Drawing.Font("Vani", 55.0!, System.Drawing.FontStyle.Bold)
+        Me.lblresultwin.Font = New System.Drawing.Font("Microsoft Sans Serif", 55.0!, System.Drawing.FontStyle.Bold)
         Me.lblresultwin.ForeColor = System.Drawing.Color.Gold
         Me.lblresultwin.Location = New System.Drawing.Point(127, 83)
         Me.lblresultwin.Name = "lblresultwin"
@@ -365,7 +365,7 @@ Partial Class frmIngameScreen
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = Global.WindowsApplication7.My.Resources.Resources.blackjack
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.ClientSize = New System.Drawing.Size(1311, 882)
+        Me.ClientSize = New System.Drawing.Size(1311, 873)
         Me.Controls.Add(Me.lblsaveinfo)
         Me.Controls.Add(Me.lblnameage)
         Me.Controls.Add(Me.btnstart)

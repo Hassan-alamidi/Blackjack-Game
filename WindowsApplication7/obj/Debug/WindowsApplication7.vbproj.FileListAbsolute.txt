@@ -174,3 +174,20 @@ C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\
 C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.exe
 C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.xml
 C:\Users\hassan\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.vbprojResolveAssemblyReference.cache
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.blackjacktot.resources
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.frmIngameScreen.resources
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.frmplayerdetails.resources
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+D:\My Files\Documents\assignment 4.0 finished\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\hassan\Documents\assignment 4.0 finished\PokerGame\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\hassan\Documents\assignment 4.0 finished\PokerGame\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\hassan\Documents\assignment 4.0 finished\PokerGame\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\hassan\Documents\assignment 4.0 finished\PokerGame\WindowsApplication7\obj\Debug\WindowsApplication7.pdb

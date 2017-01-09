@@ -49,6 +49,7 @@ Partial Class blackjacktot
         'btncard
         '
         Me.btncard.BackColor = System.Drawing.SystemColors.Control
+        Me.btncard.Enabled = False
         Me.btncard.FlatAppearance.BorderSize = 2
         Me.btncard.FlatStyle = System.Windows.Forms.FlatStyle.System
         Me.btncard.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -62,6 +63,7 @@ Partial Class blackjacktot
         '
         'btnreset
         '
+        Me.btnreset.Enabled = False
         Me.btnreset.FlatStyle = System.Windows.Forms.FlatStyle.System
         Me.btnreset.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnreset.Location = New System.Drawing.Point(12, 482)
@@ -84,18 +86,20 @@ Partial Class blackjacktot
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(1014, 96)
+        Me.Button1.BackColor = System.Drawing.Color.DarkGray
+        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!)
+        Me.Button1.Location = New System.Drawing.Point(954, 96)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(117, 66)
+        Me.Button1.Size = New System.Drawing.Size(177, 94)
         Me.Button1.TabIndex = 18
         Me.Button1.Text = "next Page"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.UseVisualStyleBackColor = False
         '
         'lbltuthelp
         '
         Me.lbltuthelp.BackColor = System.Drawing.Color.Transparent
         Me.lbltuthelp.Font = New System.Drawing.Font("MV Boli", 22.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbltuthelp.ForeColor = System.Drawing.Color.Red
+        Me.lbltuthelp.ForeColor = System.Drawing.SystemColors.Window
         Me.lbltuthelp.Location = New System.Drawing.Point(12, 9)
         Me.lbltuthelp.Name = "lbltuthelp"
         Me.lbltuthelp.Size = New System.Drawing.Size(774, 448)
@@ -103,9 +107,9 @@ Partial Class blackjacktot
         '
         'Lbltutnext
         '
-        Me.Lbltutnext.BackColor = System.Drawing.Color.Transparent
+        Me.Lbltutnext.BackColor = System.Drawing.Color.DarkGreen
         Me.Lbltutnext.Font = New System.Drawing.Font("MV Boli", 18.25!, System.Drawing.FontStyle.Bold)
-        Me.Lbltutnext.ForeColor = System.Drawing.Color.Red
+        Me.Lbltutnext.ForeColor = System.Drawing.Color.Cornsilk
         Me.Lbltutnext.Location = New System.Drawing.Point(807, 9)
         Me.Lbltutnext.Name = "Lbltutnext"
         Me.Lbltutnext.Size = New System.Drawing.Size(324, 62)
@@ -125,6 +129,7 @@ Partial Class blackjacktot
         '
         'btnexit
         '
+        Me.btnexit.Enabled = False
         Me.btnexit.FlatStyle = System.Windows.Forms.FlatStyle.System
         Me.btnexit.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnexit.Location = New System.Drawing.Point(12, 552)
@@ -133,7 +138,6 @@ Partial Class blackjacktot
         Me.btnexit.TabIndex = 23
         Me.btnexit.Text = "Save and Exit Game"
         Me.btnexit.UseVisualStyleBackColor = True
-        Me.btnexit.Visible = False
         '
         'blackjacktot
         '
